@@ -5,7 +5,7 @@ Playing the game
 ----------------
 To play the game you can:
 1.  Download this GitHub repository and open up the index.html file located at the root in any modern web browser
-2.  Go to http://yhippa.github.io/frontend-nanodegree-p3/ in any modern web browser
+2.  Go to http://yhippa.github.io/frontend-nanodegree-p3/ in any modern web browser.
 
 How to play
 -----------
